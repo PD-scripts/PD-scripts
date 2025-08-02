@@ -1,0 +1,29 @@
+# .github/workflows/snake.yml
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # run every day at midnight UTC
+  workflow_dispatch: # Allows you to manually trigger the workflow
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2 # Checks out your repository code
+      - uses: Platane/snk@v3 # The action that generates the snake SVG
+        id: snake-svg
+        with:
+          github_user_name: PD-scripts # **IMPORTANT: Make sure this is your GitHub username!**
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} # Automatically provided by GitHub for actions
+      - name: Push to branch # Pushes the generated SVG files to a specific branch
+        uses: crazy-max/ghaction-github-pages@v2
+        with:
+          target_branch: output # This is the branch where the SVG will be stored.
+          build_dir: dist # The directory where 'Platane/snk' saves the SVGs
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
