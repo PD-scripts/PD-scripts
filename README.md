@@ -1,40 +1,39 @@
-# Hey there! 👋 I'm Priyanshu Dixit
-
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&width=435&lines=Full+Stack+Developer;Backend+Team+Lead;Open+Source+Contributor;Competitive+Programmer" alt="Typing SVG" />
 </div>
 
-## 🚀 About Me
-
-I'm a passionate **Computer Science Engineering** student at **IIIT Nagpur** with a **CGPA of 8.96**. Currently working as a **Full Stack Developer Intern** at Labmentix EdTec and previously served as **Backend Team Head** at Zoro Innovations. I love building scalable web applications and contributing to open source projects!
-
-- 🔭 I'm currently working on modern web applications using the **MERN Stack**
-- 🌱 I'm learning advanced **System Design** and **Cloud Technologies**
-- 👯 I'm looking to collaborate on **Open Source Projects**
-- 💬 Ask me about **React.js, Node.js, MongoDB, REST APIs**
-- 📫 How to reach me: **bt23cse003@iiitn.ac.in**
-- ⚡ Fun fact: I've solved **300+ coding problems** and created both Snake Game & Snake Ladder Game!
-
 ---
 
-## 🏢 Organizations I Work With
-
 <div align="center">
-  
-### 🔥 Current & Previous Organizations
-
-| Organization | Role | Duration |
-|:---:|:---:|:---:|
-| **Labmentix EdTec Pvt. Ltd.** | Full Stack Developer Intern | July 2025 - Present |
-| **Zoro Innovations** | Backend Team Head | July 2025 - Aug 2025 |
-| **GirlScript Summer of Code** | Open Source Contributor | 2025 |
-| **IIIT Nagpur** | Student & Club Member | 2023 - Present |
-
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PD-scripts/PD-scripts/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PD-scripts/PD-scripts/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/PD-scripts/PD-scripts/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
 
 ---
 
-## 🛠️ Tech Stack & Skills
+## 👋 Hello, I'm Priyanshu Dixit!
+
+I'm a passionate **Computer Science Engineering student** at IIIT Nagpur, maintaining a strong **CGPA of 8.96**. My journey in tech involves building **scalable web applications** and actively contributing to **open source projects**.
+
+Currently, I'm interning as a **Full Stack Developer** at Labmentix EdTec Pvt. Ltd. I previously led the **Backend Team** at Zoro Innovations, where I honed my skills in backend development and team leadership.
+
+---
+
+## 🚀 What I'm Up To
+
+* **🔭 Currently working on:** Modern web applications using the **MERN Stack**.
+* **🌱 Learning:** Advanced **System Design** and **Cloud Technologies**.
+* **👯 Looking to collaborate on:** Exciting **Open Source Projects**.
+* **💬 Ask me about:** **React.js, Node.js, MongoDB,** and **REST APIs**.
+* **📫 How to reach me:** bt23cse003@iiitn.ac.in
+* **⚡ Fun fact:** I've solved **300+ coding problems** and even created both the **Snake Game & Snake Ladder Game**!
+
+---
+
+## 🛠️ My Toolkit
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs" height="60" alt="Frontend & Backend"  />
@@ -48,21 +47,35 @@ I'm a passionate **Computer Science Engineering** student at **IIIT Nagpur** wit
   <img src="https://skillicons.dev/icons?i=git,github,vite" height="60" alt="Tools"  />
 </div>
 
-### 💼 Experience Highlights
-- 🏆 **Led a team of 5 developers** in complete backend development
-- 🚀 **Built 15+ scalable REST APIs** with 99.9% uptime
-- 💡 **Developed 5+ responsive web applications** improving performance by 25%
-- 🔧 **Achieved 95% test coverage** with clean, modular code
+---
+
+## 💼 Experience & Highlights
+
+* **Full Stack Developer Intern** @ Labmentix EdTec Pvt. Ltd. (July 2025 - Present)
+* **Backend Team Head** @ Zoro Innovations (July 2025 - August 2025)
+* **Open Source Contributor** @ GirlScript Summer of Code (GSSoC 2025)
+* **Student & Club Member** @ IIIT Nagpur (2023 - Present)
 
 ---
 
-## 📊 GitHub Stats & Activity
+### Key Achievements
+
+* 🏆 Led a team of 5 developers in **complete backend development**.
+* 🚀 Built **15+ scalable REST APIs** with **99.9% uptime**.
+* 💡 Developed **5+ responsive web applications**, improving performance by **25%**.
+* 🔧 Achieved **95% test coverage** with clean, modular code.
+* 🥇 Selected as a **GSSoC 2025 Contributor** for a premier open source program.
+* 🌐 Developed the official website for **Abhivyakti'25**, IIIT Nagpur's college fest.
+* 🗣️ Active member of the **Elevate Development & Orator Public Speaking Club**.
+
+---
+
+## 📊 My GitHub Activity
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=PD-scripts&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="165" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=PD-scripts&theme=tokyonight&hide_border=true" height="165" alt="GitHub Streak" />
 </div>
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PD-scripts&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180" alt="Top Languages" />
   <img src="https://github-profile-trophy.vercel.app?username=PD-scripts&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=2&column=3" height="180" alt="GitHub Trophies" />
@@ -70,36 +83,13 @@ I'm a passionate **Computer Science Engineering** student at **IIIT Nagpur** wit
 
 ---
 
-## 🏆 Featured Repositories
+## 🏅 Competitive Programming
 
-<div align="center">
-  
-[![Snake Game Web App](https://github-readme-stats.vercel.app/api/pin/?username=PD-scripts&repo=snake-game-web&theme=tokyonight&hide_border=true)](https://github.com/PD-scripts/snake-game-web)
-[![Snake & Ladder Game](https://github-readme-stats.vercel.app/api/pin/?username=PD-scripts&repo=snake-ladder-game&theme=tokyonight&hide_border=true)](https://github.com/PD-scripts/snake-ladder-game)
-[![Personal Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=PD-scripts&repo=portfolio&theme=tokyonight&hide_border=true)](https://github.com/PD-scripts/portfolio)
-[![Abhivyakti'25 Website](https://github-readme-stats.vercel.app/api/pin/?username=PD-scripts&repo=abhivyakti-25&theme=tokyonight&hide_border=true)](https://github.com/PD-scripts/abhivyakti-25)
-
-</div>
-
----
-
-## 🏅 Competitive Programming & Achievements
-
-<div align="center">
-  
-| Platform | Problems Solved | Current Rating | Max Rating |
-|:---:|:---:|:---:|:---:|
-| **LeetCode** | 150+ | - | - |
-| **Codeforces** | 100+ | 1359 | 1385 |
-| **Other Platforms** | 50+ | - | - |
-
-### 🎯 Key Achievements
-- 🥇 **GSSoC 2025 Contributor** - Selected for premier open source program
-- 🌐 **College Fest Website Developer** - Created Abhivyakti'25 official website
-- 🗣️ **Active Club Member** - Elevate Development & Orator Public Speaking Club
-- 🎓 **Academic Excellence** - Maintaining 8.96 CGPA at IIIT Nagpur
-
-</div>
+| Platform        | Problems Solved | Current Rating | Max Rating |
+| :-------------- | :-------------- | :------------- | :--------- |
+| LeetCode        | 150+            | --             | --         |
+| Codeforces      | 100+            | 1359           | 1385       |
+| Other Platforms | 50+             | --             | --         |
 
 ---
 
@@ -122,23 +112,11 @@ I'm a passionate **Computer Science Engineering** student at **IIIT Nagpur** wit
 
 ---
 
-## 📈 Profile Views & Activity
-
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=PD-scripts&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
   <br><br>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PD-scripts&theme=tokyonight" alt="Profile Summary" />
 </div>
-
----
-
-## 🐍 Contribution Graph
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PD-scripts/PD-scripts/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PD-scripts/PD-scripts/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/PD-scripts/PD-scripts/output/github-contribution-grid-snake.svg">
-</picture>
 
 ---
 
